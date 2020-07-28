@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Share+Tech&display=swap');
+
+
+p{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 24px;
+}
+
+#container{
+    text-align: center;
+    background: #F0FFFF;
+    min-height: 100%;
+}
+
+#questionArea{
+    font-family: 'Share Tech', sans-serif;
+    text-align: center;
+}
+
+#answerArea{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+button{
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+body
+{
+    background: #000000 url(https://image.freepik.com/free-vector/blue-binary-cyber-circuit-future-technology-concept-background_42077-2890.jpg) repeat;
+    }
